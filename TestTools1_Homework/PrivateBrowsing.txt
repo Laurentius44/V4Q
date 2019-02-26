@@ -1,5 +1,5 @@
 Incognito mode allows you to browse without 
-recording the broswer history,thus making 
+recording the browser history,thus making 
 it easier to maintain without large errors.
 This mode can be used easily for testing because
 you don't have to intially worry about cookies and cache,that 
