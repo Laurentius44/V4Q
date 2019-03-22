@@ -1,0 +1,26 @@
+summary:
+making a selection at vending machine and recieving
+the item selected.
+Pre-Conditions:
+Have currency for vending machine(for this purpose,
+we will be using 6 quarters)
+STR:
+1.Insert each quarter inside the coin slot of the 
+vending machine until you have enough for a Coca Cola.
+2.On the vending machine key pad,insert the small code located
+underneath the Coca-Cola item you are purchasing(i.e. E6)
+3.Press Enter on Key Pad of vending machine.
+4.Wait for vending machine to process your purchase 
+and drop your Coca-Cola below.
+5.Insert hand into vending machine lid,located in the middle
+of the vending machine down below and obtain your Coca-Cola.
+
+Expected Result:
+The purchase you made at the vending machine was the item you
+selected
+
+Actual Result:
+The purchase you made at the vending machine was the item you
+selected
+
+
